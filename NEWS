@@ -1,0 +1,6 @@
+gRok v0.1 (Release date: 2024-10-22)
+==============
+
+Changes:
+
+* First release. This version simply calls the xAI content API in an easy to use way in R.
